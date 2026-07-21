@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Lozi 👋
+# Hi, I'm Lozi 
 
-**Rust Backend Developer** | Low-level & High-performance systems
+**Rust Backend Developer**
 
 </div>
 
