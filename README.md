@@ -9,7 +9,3 @@
 ---
 ### What I'm working on
 - **PSP PRX Decrypter** — Modern and secure Rust port of the PlayStation Portable (PSP) PRX and EBOOT.BIN decrypter using the **KIRK engine**.
-
----
-### Let's connect
-💬 Discord: **lozi_25**
