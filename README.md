@@ -24,5 +24,4 @@ Languages     : Rust (Primary), C, C++, Python
 Low-Level     : FFI/C Interop, Binary Parsing, Zero-Copy, Memory Safety, Reverse Engineering
 Crypto        : AES, ECDSA, Ed25519, SHA-1
 Tools & Environment : ArchLinux, Neovim, Git, ImHex, Jupyter 
-Languages     : Spanish (Native), English (C1 Advanced), Japanese (N4)
 ```
