@@ -2,12 +2,14 @@
 
 # Hi, I'm Lozi 👋
 
-- **Systems & Low-Lever Developer**
-- 📍 Argentina
+**Systems & Low-Level Developer** <br>
+📍 Argentina
+
+<br>
 
 I take legacy C/C++ and reverse-engineered code and turn it into **memory-safe, high-performance Rust**, wrapping `unsafe` APIs behind clean interfaces. Passionate about binary formats, cryptography, FFI, systems internals, and Quantum Computing.
-</div>
 
+</div>
 ---
 
 ### What I'm currently working on
