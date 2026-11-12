@@ -12,10 +12,10 @@ I take legacy C/C++ and reverse-engineered code and turn it into **memory-safe, 
 </div>
 
 ### What I'm currently working on
-- **PSP PRX Decrypter**
+- **PSP PRX Decrypter**:
 Modern and secure Rust port of the PlayStation Portable (PSP) PRX and EBOOT.BIN decrypter using the **KIRK engine**.
 
-- **⚛️ Quantum Computing & Qiskit** 
+- **⚛️ Quantum Computing & Qiskit**:
 Studying quantum algorithms, state transformation, and low-level matrix ops applied to quantum simulation.
 
 ### Tech Stack & Skills
