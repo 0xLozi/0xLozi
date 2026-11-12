@@ -7,7 +7,7 @@
 
 <br>
 
-I take legacy C/C++ and reverse-engineered code and turn it into **memory-safe, high-performance Rust**, wrapping `unsafe` APIs behind clean interfaces. Passionate about binary formats, cryptography, FFI, systems internals, and Quantum Computing.
+I take legacy C/C++ and reverse-engineered code and turn it into **memory-safe, high-performance Rust**. Passionate about binary formats, cryptography, FFI, systems internals, and Quantum Computing.
 
 </div>
 
