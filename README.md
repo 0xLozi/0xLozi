@@ -15,13 +15,13 @@ I take legacy C/C++ and reverse-engineered code and turn it into **memory-safe, 
 - **PSP PRX Decrypter**:
 Modern and secure Rust port of the PlayStation Portable (PSP) PRX and EBOOT.BIN decrypter using the **KIRK engine**.
 
-- **⚛️ Quantum Computing & Qiskit**:
+- **💻 Quantum Computing & Qiskit**:
 Studying quantum algorithms, state transformation, and low-level matrix ops applied to quantum simulation.
 
-### Tech Stack & Skills
-```text
-Languages     : Rust (Primary), C, C++, Python
-Low-Level     : FFI/C Interop, Binary Parsing, Zero-Copy, Memory Safety, Reverse Engineering
-Crypto        : AES, ECDSA, Ed25519, SHA-1
-Tools & Environment : ArchLinux, Neovim, Git, ImHex, Jupyter 
-```
+### Core Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
